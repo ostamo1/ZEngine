@@ -147,9 +147,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="..\Math\Vector2f.h" />
+    <ClInclude Include="..\Math\Vector3f.h" />
     <ClInclude Include="..\Math\Vector4f.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="..\Math\Vector2f.cpp" />
+    <ClCompile Include="..\Math\Vector3f.cpp" />
     <ClCompile Include="..\Math\Vector4f.cpp" />
     <ClCompile Include="Win32BaseApplicationMain.cpp" />
   </ItemGroup>
