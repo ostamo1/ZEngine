@@ -1,16 +1,21 @@
 # ZEngine
 My First 3D Engine
 // Need to Work on Math Engine
-Vector4f
-Vector3f
-Vector2f
+Need to Finish vector functions
 Vector2i
+
 Matrix33
+
 Matrix44
+
 Quaternions
+
 AABB
+
 OOBB
+
 Rays
+
 Planes
 
 // Need to implement Renderers
@@ -20,4 +25,6 @@ Planes
 // Need to implement Audio System
 
 // Need to Implement Core Functions
+
 Platform type definitions
+
